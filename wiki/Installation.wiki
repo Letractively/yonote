@@ -1,1 +1,2 @@
-test content
+=Preparing for Installation=
+First of all download the latest version of YOnote ENGINE from "downloads" tab.
