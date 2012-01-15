@@ -6,11 +6,12 @@
 
 = ШАГ 2. ЗАГРУЗКА СИСТЕМЫ НА СЕРВЕР=
 
-Перейдите к [http://code.google.com/p/yonote/downloads/list Странице загрузок]. Скачайте последнюю версию YOnote ENGINE.
+Перейдите к [http://code.google.com/p/yonote/downloads/list Странице загрузок]. Скачайте последнюю версию YOnote ENGINE. Разархивируйте содержимое папки YOnote ENGINE X.X.XX скачанного архива на сервер.
 
-= Details =
+= Шаг 3. Установка YOnote ENGINE= 
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Установите права записи папкам:
+ * engine/functions
+ * uploads/ (ко всем вложенным папкам)
+
+Далее вызовите любую страницу сайта, например: *http://sitename.com/*, откроется мастер установки YOnote ENGINE.
