@@ -1,4 +1,4 @@
-#Установка YOnote ENGINE.
+#summary Установка YOnote ENGINE.
 
 = Introduction =
 
